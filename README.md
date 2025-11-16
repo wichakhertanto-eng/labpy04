@@ -30,8 +30,10 @@ Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 • tambah list B dengan 3 nilai
 • gabungkan list B dengan list A
 jawaban
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/e46bb118-550f-4a61-ae0d-cc253b6c0be8" />
 
-<img width="1920" height="820" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/1d16ad19-6ec9-4342-9bbf-508ba938c54f" />
+
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/dcae8659-a054-43b9-87ee-25cae10f85de" />
 
 
 
@@ -54,6 +56,7 @@ uts: 35%, uas: 35%)
 
 
 • Buat flowchart dan penjelasan programnya
-<img width="1920" height="930" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/f2da281d-1438-4f0e-b611-9875579cd24d" />
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/c0872ac1-2749-4da8-a1f8-b7132154ef24" />
+
 
 
